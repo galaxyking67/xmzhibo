@@ -7,6 +7,16 @@
 127.0.0.1 g.cn.miaozhen.com
 127.0.0.1 t2.a.market.xiaomi.com
 127.0.0.1 abtest.mistat.xiaomi.com
+#小米视频
+127.0.0.1 api.ad.xiaomi.com
+127.0.0.1 sdkconfig.ad.xiaomi.com
+127.0.0.1 hm.xiaomi.com
+127.0.0.1 app.market.xiaomi.com
+127.0.0.1 d.url.cn
+127.0.0.1 7xnusr.com1.z0.glb.clouddn.com
+127.0.0.1 f5.market.xiaomi.com
+127.0.0.1 7xltxi.com1.z0.glb.clouddn.com
+127.0.0.1 7xl9af.com1.z0.glb.clouddn.com
 #国内的广告联盟或者广告服务器域名
 127.0.0.1 pingma.qq.com
 127.0.0.1 alog.umeng.co
@@ -671,7 +681,7 @@
 127.0.0.1 s.admob.com
 127.0.0.1 s.baidu.com
 127.0.0.1 s.click.alimama.com
-127.0.0.1 s.click.taobao.com
+#127.0.0.1 s.click.taobao.com
 127.0.0.1 s1.2mdn.net
 127.0.0.1 s2.video.doubleclick.net
 127.0.0.1 s8.taobao.com
