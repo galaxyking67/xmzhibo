@@ -19,7 +19,7 @@
 127.0.0.1 mcgi.v.qq.com
 127.0.0.1 secure-chn.imrworldwide.com
 127.0.0.1 mdevstat.qqlive.qq.com
-127.0.0.1 mvideo.duokanbox.com
+#127.0.0.1 mvideo.duokanbox.com
 127.0.0.1 qq.irs01.com
 127.0.0.1 cdn.optimizely.com
 127.0.0.1 dp3.qq.com
