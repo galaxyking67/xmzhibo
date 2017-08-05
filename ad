@@ -7,6 +7,19 @@
 127.0.0.1 g.cn.miaozhen.com
 127.0.0.1 t2.a.market.xiaomi.com
 127.0.0.1 abtest.mistat.xiaomi.com
+#自定义
+127.0.0.1 dp3.qq.com
+127.0.0.1 livep.l.qq.com
+127.0.0.1 tracking.miui.com
+127.0.0.1 m.irs01.com
+127.0.0.1 sdkconfig.video.qq.com
+127.0.0.1 lives.l.qq.com
+127.0.0.1 cdn.optimizely.com
+127.0.0.1 mcgi.v.qq.com
+127.0.0.1 mdevstat.qqlive.qq.com
+127.0.0.1 mvideo.duokanbox.com
+127.0.0.1 secure-chn.imrworldwide.com
+127.0.0.1 mtrace.qq.com
 #tvbox https://raw.githubusercontent.com/vokins/yhosts/master/data/tvbox.txt
 #cibn-vst
 127.0.0.1 bkmcgi.play.cp81.ott.cibntv.net
